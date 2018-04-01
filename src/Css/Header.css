@@ -1,0 +1,9 @@
+h1{
+    display: inline-block;
+    font-size: 500%;
+    vertical-align: -30%;
+  }
+img{
+  height: 10%;
+  width: 10%;
+}

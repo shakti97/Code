@@ -1,0 +1,13 @@
+input{
+    margin-left: 20%;
+}
+.form-control{
+    width: 60%;
+    display: inline-block;
+}
+button{
+    vertical-align: 1px!important;
+}
+.cart{
+    margin-left: 5%;
+}
